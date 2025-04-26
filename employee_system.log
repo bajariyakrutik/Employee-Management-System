@@ -1,0 +1,85 @@
+----- Logger initialized on 2025-04-26 10:44:06.663 -----
+2025-04-26 10:44:06.887 [INFO] Starting Employee Management System
+2025-04-26 10:44:07.125 [INFO] Database initialized successfully
+----- Logger initialized on 2025-04-26 10:46:41.505 -----
+2025-04-26 10:46:41.730 [INFO] Starting Employee Management System
+2025-04-26 10:46:41.954 [INFO] Database initialized successfully
+2025-04-26 10:46:52.531 [INFO] Loaded 16 users from database
+2025-04-26 10:46:52.534 [INFO] Loaded 16 users from database
+2025-04-26 10:46:52.534 [INFO] User authenticated: admin
+2025-04-26 10:46:52.535 [INFO] User logged in: admin
+2025-04-26 10:46:52.591 [INFO] Main application window opened with user: admin
+2025-04-26 10:46:59.490 [INFO] Employee list opened by user: admin
+2025-04-26 10:47:25.506 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+2025-04-26 10:47:25.512 [INFO] PDF export completed successfully
+2025-04-26 10:47:33.414 [INFO] Starting payroll PDF export to: /Users/krutikbajariya/Desktop/payroll_report.pdf
+2025-04-26 10:47:33.423 [INFO] Payroll PDF export completed successfully
+2025-04-26 10:47:42.104 [INFO] User logged out: admin
+2025-04-26 10:47:42.104 [INFO] User logged out: admin
+2025-04-26 10:47:50.501 [INFO] Loaded 16 users from database
+2025-04-26 10:47:50.502 [WARNING] Authentication failed for username: manager
+2025-04-26 10:47:50.502 [WARNING] Login failed for username: manager
+2025-04-26 10:47:55.552 [INFO] Loaded 16 users from database
+2025-04-26 10:47:55.553 [WARNING] Authentication failed for username: manager
+2025-04-26 10:47:55.554 [WARNING] Login failed for username: manager
+2025-04-26 10:48:25.784 [INFO] Loaded 16 users from database
+2025-04-26 10:48:25.785 [INFO] User authenticated: manager
+2025-04-26 10:48:25.786 [INFO] User logged in: manager
+2025-04-26 10:48:25.844 [INFO] Main application window opened with user: manager
+----- Logger initialized on 2025-04-26 11:00:41.101 -----
+2025-04-26 11:00:41.388 [INFO] Starting Employee Management System
+2025-04-26 11:00:41.635 [INFO] Database initialized successfully
+2025-04-26 11:00:48.261 [INFO] Loaded 16 users from database
+2025-04-26 11:00:48.263 [INFO] Loaded 16 users from database
+2025-04-26 11:00:48.264 [INFO] User authenticated: admin
+2025-04-26 11:00:48.265 [INFO] User logged in: admin
+2025-04-26 11:00:48.324 [INFO] Main application window opened with user: admin
+2025-04-26 11:00:54.177 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+----- Logger initialized on 2025-04-26 11:05:04.316 -----
+2025-04-26 11:05:04.521 [INFO] Starting Employee Management System
+2025-04-26 11:05:04.738 [INFO] Database initialized successfully
+2025-04-26 11:05:11.730 [INFO] Loaded 16 users from database
+2025-04-26 11:05:11.733 [INFO] Loaded 16 users from database
+2025-04-26 11:05:11.733 [INFO] User authenticated: admin
+2025-04-26 11:05:11.734 [INFO] User logged in: admin
+2025-04-26 11:05:11.792 [INFO] Main application window opened with user: admin
+2025-04-26 11:05:17.729 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+----- Logger initialized on 2025-04-26 11:06:55.881 -----
+2025-04-26 11:06:56.061 [INFO] Starting Employee Management System
+2025-04-26 11:06:56.284 [INFO] Database initialized successfully
+2025-04-26 11:07:02.909 [INFO] Loaded 16 users from database
+2025-04-26 11:07:02.911 [INFO] Loaded 16 users from database
+2025-04-26 11:07:02.912 [INFO] User authenticated: admin
+2025-04-26 11:07:02.913 [INFO] User logged in: admin
+2025-04-26 11:07:02.981 [INFO] Main application window opened with user: admin
+2025-04-26 11:07:09.425 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+----- Logger initialized on 2025-04-26 11:08:08.657 -----
+2025-04-26 11:08:08.854 [INFO] Starting Employee Management System
+2025-04-26 11:08:09.073 [INFO] Database initialized successfully
+2025-04-26 11:08:14.322 [INFO] Loaded 16 users from database
+2025-04-26 11:08:14.323 [INFO] Loaded 16 users from database
+2025-04-26 11:08:14.323 [INFO] User authenticated: admin
+2025-04-26 11:08:14.323 [INFO] User logged in: admin
+2025-04-26 11:08:14.374 [INFO] Main application window opened with user: admin
+2025-04-26 11:08:19.529 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+----- Logger initialized on 2025-04-26 11:11:40.382 -----
+2025-04-26 11:11:40.572 [INFO] Starting Employee Management System
+2025-04-26 11:11:40.791 [INFO] Database initialized successfully
+2025-04-26 11:11:46.142 [INFO] Loaded 16 users from database
+2025-04-26 11:11:46.144 [INFO] Loaded 16 users from database
+2025-04-26 11:11:46.145 [INFO] User authenticated: admin
+2025-04-26 11:11:46.145 [INFO] User logged in: admin
+2025-04-26 11:11:46.210 [INFO] Main application window opened with user: admin
+2025-04-26 11:11:51.458 [INFO] Starting PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+----- Logger initialized on 2025-04-26 11:12:58.583 -----
+2025-04-26 11:12:58.772 [INFO] Starting Employee Management System
+2025-04-26 11:12:58.987 [INFO] Database initialized successfully
+2025-04-26 11:13:04.795 [INFO] Loaded 16 users from database
+2025-04-26 11:13:04.798 [INFO] Loaded 16 users from database
+2025-04-26 11:13:04.798 [INFO] User authenticated: admin
+2025-04-26 11:13:04.799 [INFO] User logged in: admin
+2025-04-26 11:13:04.863 [INFO] Main application window opened with user: admin
+2025-04-26 11:13:09.577 [INFO] Starting simple PDF export to: /Users/krutikbajariya/Desktop/employee_report.pdf
+2025-04-26 11:13:10.212 [INFO] Simple PDF export completed successfully
+2025-04-26 11:13:55.961 [INFO] Starting simple payroll PDF export to: /Users/krutikbajariya/Desktop/payroll_report.pdf
+2025-04-26 11:13:55.972 [INFO] Simple payroll PDF export completed successfully

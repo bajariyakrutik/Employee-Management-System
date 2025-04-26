@@ -14,7 +14,6 @@ The **Employee Management System** is a Java-based application designed to strea
 - ✅ **Report Generation**: CSV and PDF export of employee and payroll data.
 - ✅ **Search Functionality**: Find employees by ID.
 - ✅ **Payment Method Selection**: Employees can select different payment methods (Direct Deposit, Check).
-- ✅ **Automatic ID Generation**: Employee IDs are auto-generated based on database records.
 - ✅ **Employee Accounts**: Each employee added gets their own login account.
 - ✅ **Design Pattern Integration**:
   - **Singleton Pattern** (Database connection)
@@ -28,28 +27,37 @@ The **Employee Management System** is a Java-based application designed to strea
 ## **Installation & Setup**
 ### **Prerequisites:**
 - Java **21**
-- SQLite JDBC Driver (3.36.0.3 or newer)
-- JUnit 5 (for running tests)
+- Required Libraries:
+  - **SQLite JDBC**: sqlite-jdbc-3.36.0.3.jar (or newer)
+  - **PDFBox Libraries** (for PDF report generation):
+    - pdfbox-2.0.27.jar
+    - fontbox-2.0.27.jar
+    - commons-logging-1.2.jar
+  - **JUnit 5** (for running tests)
 
 ### **Steps to Run:**
 1. Clone the repository:
    ```sh
    cd EmployeeManagementSystem
    ```
-2. Add SQLite JDBC driver to your classpath:
+2. Create a `lib` folder in your project (if not already present) and add the required libraries:
    ```sh
-   # Download the driver from https://github.com/xerial/sqlite-jdbc/releases
-   # Add to lib folder
+   mkdir -p lib
+   # Add the library JAR files to this folder
    ```
-3. Compile and run the application:
+3. Compile the project including the libraries:
    ```sh
    javac -d bin -cp "lib/*" src/**/*.java
+   ```
+4. Run the application:
+   ```sh
    java -cp "bin:lib/*" main.EmployeeManagementApp
    ```
-4. To run the **JUnit tests**:
-   ```sh
-   Run the tests through VSCode   # If using VSCode
-   ```
+
+### **Important Library Notes:**
+- All PDFBox libraries must be the **same version** to avoid compatibility issues
+- SQLite JDBC driver is required for database operations
+- Commons Logging is a dependency for PDFBox
 
 ## **Usage Guide**
 1. **Login Page**:

@@ -1,3 +1,10 @@
+/*
+ * Krutik Bajariya
+ * PDP Project
+ * Employee Management System
+ * Used VSCode for the project
+ * Logger.java
+ */
 package util;
 
 import java.io.FileWriter;

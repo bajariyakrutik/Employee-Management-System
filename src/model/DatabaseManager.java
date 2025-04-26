@@ -1,3 +1,10 @@
+/*
+ * Krutik Bajariya
+ * PDP Project
+ * Employee Management System
+ * Used VSCode for the project
+ * DatabaseManager.java
+ */
 package model;
 
 import java.sql.*;

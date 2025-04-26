@@ -1,3 +1,10 @@
+/*
+ * Krutik Bajariya
+ * PDP Project
+ * Employee Management System
+ * Used VSCode for the project
+ * LoginGUI.java
+ */
 package view;
 
 import controller.EmployeeController;

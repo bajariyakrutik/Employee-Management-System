@@ -1,6 +1,6 @@
 /*
  * Krutik Bajariya
- * PDP Mid-Semester Project
+ * PDP Project
  * Employee Management System
  * Used VSCode for the project
  * Used JUnit 5 for testing
